@@ -1,0 +1,6 @@
+site_name: 麦谷车联-OpenAPI 开放平台
+pages:
+  - [index.md,首页]
+  - [pos_video.md,位置+视频]
+
+theme: readthedocs
