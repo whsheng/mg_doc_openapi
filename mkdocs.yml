@@ -1,11 +1,11 @@
 site_name: OpenIoT 开源IoT
 repo_url: https://github.com/whsheng/openiot_blog
-copyright: Copyright © 2019 Mr.Wang 粤ICP备19007213号-1
-pages:
-  - [index.md,Home]
-  - [iot.md,IoT]
-  - [ai.md,AI]
-  - [5g.md,5G]
-  - [about.md,About]
+copyright: Copyright © 2019 Mr.Wang <a href="http://beian.miit.gov.cn"> 粤ICP备19007213号-1
+nav: 
+  - Home: index.md
+  - IoT: iot.md
+  - AI: ai.md
+  - 5G: 5g.md
+  - About: about.md
 
 #theme: readthedocs
